@@ -1,6 +1,6 @@
 .title {
   font-family: 'Alfa Slab One', cursive;
-  font-size: 40px;
+  font-size: 80px;
   text-align: center;
 }
 
@@ -8,6 +8,14 @@
   display: inline-block;
   height: 300px;
   width: 400px;
+}
+
+.boxwords {
+  color: #ffffff;
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 40px;
+  margin: auto;
+  margin-top: 123px;
   text-align: center;
 }
 
@@ -17,7 +25,6 @@
 
 .upperright {
   background-color: #444444;
-  margin-left: -4px;
 }
 
 .lowerleft {
@@ -26,5 +33,4 @@
 
 .lowerright {
   background-color: #999999;
-  margin-left: -4px;
 }
