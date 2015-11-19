@@ -13,13 +13,31 @@
 }
 
 .boxoverlay {
-  background-color: #d30ab6;
   height: 300px;
-  opacity: 0.7;
   margin-top: 133px;
   top: 300px;
   transition: 250ms;
   width: 400px;
+}
+
+.art {
+  background-image: url("art1.jpg");
+  background-size: contain;
+}
+
+.music {
+  background-image: url("music1.jpg");
+  background-size: contain;
+}
+
+.food {
+  background-image: url("food1.jpg");
+  background-size: contain;
+}
+
+.info {
+  background-image: url("info1.jpg");
+  background-size: contain;
 }
 
 .boxwords {
