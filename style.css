@@ -8,6 +8,17 @@
 .menubox {
   display: inline-block;
   height: 300px;
+  overflow: hidden;
+  width: 400px;
+}
+
+.boxoverlay {
+  background-color: #d30ab6;
+  height: 300px;
+  opacity: 0.7;
+  margin-top: 133px;
+  top: 300px;
+  transition: 250ms;
   width: 400px;
 }
 
@@ -16,7 +27,7 @@
   font-family: 'Raleway', sans-serif;
   font-size: 40px;
   margin: auto;
-  margin-top: 124px;
+  margin-top: 120px;
   text-align: center;
 }
 
