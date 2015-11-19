@@ -13,11 +13,11 @@
 
 .upperleft {
   background-color: #111111;
-  margin-left: auto;
 }
 
 .upperright {
   background-color: #444444;
+  margin-left: -4px;
 }
 
 .lowerleft {
@@ -26,4 +26,5 @@
 
 .lowerright {
   background-color: #999999;
+  margin-left: -4px;
 }
